@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @lowpon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi community,
 
-<!---
-lowpon/lowpon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here I would like to share my contribution to the excellent openEMS project
+[@thliebig https://github.com/thliebig/openEMS]
+and its valuable plugin
+[@LubomirJagos https://github.com/LubomirJagos/FreeCAD-OpenEMS-Export]
+
+I was wondering TDR analysis capabilities through openEMS, but it wasn't existing yet.
+
+Thus, I followed the test case proposed by VolkerMuehlhaus here https://github.com/thliebig/openEMS-Project/discussions/177#discussioncomment-8132900
+and finally came to the following octave files.
